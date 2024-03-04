@@ -1,0 +1,6 @@
+[submodule "Interpersonal-Communication"]
+	path = Interpersonal-Communication
+	url = https://github.com/JacentyI1/Interpersonal-Communication.git
+[submodule "ISSM-Project"]
+	path = ISSM-Project
+	url = https://github.com/JacentyI1/ISSM-Project.git
