@@ -4,3 +4,6 @@
 [submodule "ISSM-Project"]
 	path = ISSM-Project
 	url = https://github.com/JacentyI1/ISSM-Project.git
+[submodule "AI_lectures"]
+	path = AI_lectures
+	url = https://github.com/JacentyI1/AI_lectures.git
