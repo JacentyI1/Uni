@@ -16,4 +16,4 @@ git submodule foreach git add .
 git submodule foreach 'git commit -m "Update submodule" || :'
 
 # Push changes
-git push origin <your-branch-name>
+git push origin master
